@@ -1,6 +1,7 @@
 # MiniRegression-Library
 
 This Repository consists of a simple Regression Library and includes tasks that I have learned/practiced for different python ML Regression task. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my mini Regression Library🌾!!
+(This simple library is still in development phase and some tests are yet to be done!)
 
 
 ## Acknowledgements
