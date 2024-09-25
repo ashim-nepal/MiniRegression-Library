@@ -19,7 +19,7 @@ This Repository consists of a simple Regression Library and includes tasks that 
 
 #### What does this repository consist of?
 
-- This repo is a simple Regression Library that I have made using Python for enhancing knowledge and skills on ML.
+- This repo is a simple Regression Library that I have made using Python for enhancing knowledge and skills on ML just for Regression Tasks.
 
 
 #### What programming language is used for Project?
